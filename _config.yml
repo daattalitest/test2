@@ -1,1 +1,2 @@
-theme: gpotter2/beautiful-jekyll
+remote_theme: gpotter2/beautiful-jekyll
+paginate: 4
